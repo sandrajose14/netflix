@@ -1,0 +1,26 @@
+.play{
+    color: white;
+    background-color: red;
+    padding: 3px;
+    height: 30px;
+    width: 50px;
+    border: none;
+    border-radius: 5px;
+    margin-right: 20px;
+    margin-top: 25px;
+    margin-bottom: 10px;
+}
+.more{
+    background-color: transparent;
+    border: 1px solid white;
+    height: 30px;
+    width: 70px;
+    padding: 3px;
+    color: white;
+
+}
+.banner-details{
+    width: 45rem;
+    padding-top: 21%;
+    margin-left: 20px;
+}
